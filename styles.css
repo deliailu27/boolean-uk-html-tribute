@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(195, 203, 205);
+  }
+  h1 {
+    color: rgb(88, 47, 14);
+  }
+  h2 {
+    color:rgb(127,79,36);
+    padding-left: 5em;
+  }
+
+  p {
+    color: rgba(51,61,41);
+    text-align: justify; 
+    padding:6em; 
+    font-size: medium;
+  }
+
+  ul{ 
+    list-style-type: none;
+    color: rgba(51,61,41);
+  }
+   
+  ol{
+    padding-left: 5em;
+    color: rgba(51,61,41)
+  }
+  
+  h3 {
+    padding-left: 5em;
+    color:dimgrey;
+   }   
+
+
+
